@@ -93,7 +93,7 @@ for iOS, Android, MacOS. Partial support for Linux, Windows and web (localStorag
 - [tray_manager](https://github.com/leanflutter/tray_manager) - This plugin allows Flutter desktop apps to defines system tray. 
 - [unix_single_instance](https://github.com/arran4/dart_unix_single_instance) - A library which uses unix sockets to ensure a single instance 
 - [vclibs](https://github.com/leanflutter/vclibs) - Let your flutter windows apps include vclibs. 
-- [win32](https://github.com/timsneath/win32) - A Dart library for accessing common Win32 APIs using FFI. No C required! 
+- [win32](https://github.com/timsneath/win32) - Access common Win32 APIs directly from Dart using FFI — no C required! 
 - [win32_registry](https://github.com/dart-windows/win32_registry) - A package that provides a friendly Dart API for accessing the Windows Registry. 
 - [win_ble](https://github.com/rohitsangwan01/win_ble) - Use the WinBle plugin to enable Bluetooth Low Energy in Flutter Windows and pure Dart projects (Windows only) 
 - [win_toast](https://github.com/MixinNetwork/flutter-plugins) - a flutter plugin that allows users to create and display toast notifications to notification center on the Windows operating system. 
